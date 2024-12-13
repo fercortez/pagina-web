@@ -1,0 +1,14 @@
+.bi-cart {
+    font-size: 1.5rem;/*cambia el tamaño segun tus necesidades*/
+    margin-right: 5px;/*espacio entre el icono y el texto */
+}
+
+img {
+    width: 100px; /* Asegúrate de que la imagen ocupe todo el ancho */
+    height: 100px; /* Mantiene la proporción */
+
+  }
+
+
+
+  
